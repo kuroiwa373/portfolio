@@ -63,7 +63,7 @@
 .header-list p {
   float:left;
   padding-right:20px;
-  color:black;
+  font-color:black;
 }
 
 .header-list a {
