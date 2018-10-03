@@ -101,7 +101,7 @@
 }
 
 .ba h2 {
-  border: 1px solid pink;
+/* border: 1px solid pink; */
   opacity: 0.7;
   font-size: 18px;
   float: left;
@@ -189,7 +189,7 @@
   .header {
     height: 200px;
     width:100%;
-    border:1px solid pink;
+    /* border:1px solid pink; */
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -209,7 +209,7 @@
     padding-top:130px;
     /* margin-left: auto;
     margin-right:auto; */
-    border:1px solid pink;
+    /* border:1px solid pink; */
     float:left;
   }
 
