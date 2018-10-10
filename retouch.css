@@ -58,7 +58,6 @@
   padding-top:130px;
   /* border:1px solid pink; */
   float:left;
-  font-color:black;
 }
 
 .header-list p {
@@ -68,6 +67,7 @@
 
 .header-list a {
   text-decoration: none;
+  font-color:black;
 }
 
 .main {
