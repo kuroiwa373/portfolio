@@ -174,8 +174,8 @@
 }
 
 .photograph-list3 img {
-/*   max-width: 500px; */
-  height: auto;
+  max-hight: 100px;
+  width: auto;
   display: inline-block;
 }
 
@@ -188,7 +188,7 @@
 .right {
   border: 1px solid pink;
   display: inline-block;
-  max-hight: 100px;
+  max-hight: 500px;
 }
 
 .footer {
