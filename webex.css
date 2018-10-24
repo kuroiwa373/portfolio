@@ -134,7 +134,6 @@
   display: inline-block;
 }
 
-
 .photograph-list2 ul {
   list-style: none;
   padding-left: 0;
@@ -172,8 +171,8 @@
 }
 
 .photograph-list3 img {
-  max-hight: 50px;
-  width: auto;
+  max-width: 400px;
+  hight: auto;
   display: inline-block;
 }
 
@@ -203,7 +202,6 @@
   padding-top: 10px;
   display: inline-block;
 }
-
 
 .footer p {
   color:black;
