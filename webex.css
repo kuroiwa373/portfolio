@@ -182,13 +182,13 @@
 .left {
   float:left;
   border: 1px solid blue;
-  max-hight: 500px;
+  max-hight: 200px;
 }
 
 .right {
   border: 1px solid pink;
   display: inline-block;
-  max-hight: 500px;
+  max-hight: 200px;
 }
 
 .footer {
