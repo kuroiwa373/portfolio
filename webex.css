@@ -171,21 +171,24 @@
 }
 
 .photograph-list3 img {
-  max-width: 400px;
-  hight: auto;
+/*   max-width: 600px;
+  hight: auto; */
   display: inline-block;
 }
 
 .left {
   float:left;
+  max-width: 600px;
+  hight: auto;
   border: 1px solid blue;
-  max-hight: 200px;
+/*   max-hight: 200px; */
 }
 
 .right {
+  max-width: 300px;
+  hight: auto;
   border: 1px solid pink;
   display: inline-block;
-  max-hight: 200px;
 }
 
 .footer {
