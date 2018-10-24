@@ -176,7 +176,7 @@
   display: inline-block;
 }
 
-.left {
+.left img {
   float:left;
   max-width: 600px;
   hight: auto;
@@ -184,7 +184,7 @@
 /*   max-hight: 200px; */
 }
 
-.right {
+.right img {
   max-width: 300px;
   hight: auto;
   border: 1px solid pink;
