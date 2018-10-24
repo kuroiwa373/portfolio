@@ -174,9 +174,13 @@
 }
 
 .photograph-list3 img {
-  max-width: 600px;
+  max-width: 500px;
   height: auto;
   display: inline-block;
+}
+
+.left {
+  float:left;
 }
 
 .footer {
