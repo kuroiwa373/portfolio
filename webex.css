@@ -180,14 +180,14 @@
   float:left;
   max-width: 600px;
   hight: auto;
-/*   border: 1px solid blue; */
+  border: 1px solid black;
 /*   max-hight: 200px; */
 }
 
 .right img {
   max-width: 300px;
   hight: auto;
-  border: 1px solid pink;
+  border: 1px solid black;
   display: inline-block;
 }
 
